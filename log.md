@@ -6,7 +6,7 @@
 
 **Thoughts:** I'd done some of the challenges in the middle of last year but then eventually fizzled out. I want to commit to both the 100 day challenge and the completion of FCCs certifications.  I am going to try and commit an average of two hours a day to coding.
 
-**Link to work:**
+**Link(s) to work:**
 
 1. [Add Rounded Corners with a Border Radius](https://www.freecodecamp.com/challenges/add-rounded-corners-with-a-border-radius)
 
