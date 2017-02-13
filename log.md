@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### [Day 6: February 13, 2017](https://thedepository.wordpress.com/2017/02/13/day-6-february-13-2017/)
+
 ### [Day 5: February 11, 2017](https://thedepository.wordpress.com/2017/02/11/day-5-february-11-2017/)
 
 ### [Day 4: February 10, 2017](https://thedepository.wordpress.com/2017/02/10/day-4-february-10-2017/)
