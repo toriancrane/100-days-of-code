@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### [Day 17: February 28, 2017](https://thedepository.wordpress.com/2017/02/28/day-17-february-28-2017/)
+
+### [Day 16: February 24, 2017](https://thedepository.wordpress.com/2017/02/24/day-16-february-24-2017/)
+
 ### [Day 15: February 23, 2017](https://thedepository.wordpress.com/2017/02/23/day-15-february-23-2017/)
 
 ### [Day 14: February 22, 2017](https://thedepository.wordpress.com/2017/02/22/day-14-february-22-2017/)
