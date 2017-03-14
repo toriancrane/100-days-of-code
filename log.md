@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### [Day 21: March 14, 2017](https://thedepository.wordpress.com/2017/03/14/day-21-march-14-2017/)
+
 ### [Day 20: March 9, 2017](https://thedepository.wordpress.com/2017/03/09/day-20-march-9-2017/)
 
 ### [Day 19: March 2, 2017](https://thedepository.wordpress.com/2017/03/02/day-19-march-2-2017/)
